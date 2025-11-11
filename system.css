@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap');
 
 body{
-    background-color: #fbd5e5   ;
+    background-color: #c3e3fd;
 }
 *{
     margin: 0;
@@ -16,9 +16,9 @@ body{
 nav.menu-lateral{
     width: 80px;
     height: 100%;
-    background: #202020;
+    background: #171a4a;
     padding: 40px 0 40px 1%;
-    box-shadow: #500c77 3px 0 0;
+    box-shadow: #004766 3px 0 0;
 
     position: fixed;
     top: 0;
@@ -46,7 +46,7 @@ ul li.item-menu{
     transition: 1s;
 }
 ul li.item-menu:hover{
-    background: #500c77;
+    background: #004766;
 }
 ul li.item-menu a{
     color:white;
@@ -80,22 +80,22 @@ ul li.item-menu a .icon i{
 }
 .titulo1{
     font-family:Arial, Helvetica, sans-serif ;
-    color: black;
+    color: white;
     text-align: justify;
     margin-top: 5vw;
     margin-left: 80vh;
 
 }
 .texto1{
-    background-color:#f7bfd8;
+    background-color: #9acef8;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: white;
     margin-top: 5vw;
     margin-left: 60vh;
     width: 50%;
     height: 45%;
     border-radius: 10px;
-    border: 3px solid #eb9ac0 ;
+    border: 3px solid #004766 ;
     padding: 80px;
     font-size: 20px;
 } 
@@ -103,27 +103,27 @@ ul li.item-menu a .icon i{
     position: relative;
     margin-left: 47vh;
     margin-top: 10%;
-    border: 3px solid #eb9ac0;
+    border: 3px solid #004766;
 
 }
 .titulo2{
     font-family:Arial, Helvetica, sans-serif ;
-    color: black;
+    color: white;
     text-align: justify;
     margin-top: 5vw;
     margin-left: 85vh;
 
 }
 .texto2{
-    background-color:#f7bfd8;
+    background-color:#9acef8;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: white;
     margin-top: 5vw;
     margin-left: 60vh;
     width: 50%;
     height:50%;
     border-radius: 10px;
-    border: 3px solid #eb9ac0 ;
+    border: 3px solid #004766 ;
     padding: 80px;
     font-size: 20px;
 }
@@ -131,27 +131,27 @@ ul li.item-menu a .icon i{
     position: relative;
     margin-left: 47vh;
     margin-top: 10%;
-    border: 3px solid #eb9ac0;
+    border: 3px solid #004766;
 
 }      
 .titulo3{
     font-family:Arial, Helvetica, sans-serif ;
-    color: black;
+    color: white;
     text-align: justify;
     margin-top: 5vw;
     margin-left: 70vh;
 
 }
 .texto3{
-    background-color:#f7bfd8;
+    background-color:#9acef8;
     font-family: Arial, Helvetica, sans-serif;
-    color: black;
+    color: white;
     margin-top: 5vw;
     margin-left: 60vh;
     width: 50%;
     height: 42%;
     border-radius: 10px;
-    border: 3px solid #eb9ac0 ;
+    border: 3px solid #004766 ;
     padding: 80px;
     font-size: 20px;
 }
@@ -159,7 +159,7 @@ ul li.item-menu a .icon i{
     position: relative;
     margin-left:57vh ;
     margin-top: 20%;
-    border: 3px solid #eb9ac0;
+    border: 3px solid #004766;
 
 }
 
